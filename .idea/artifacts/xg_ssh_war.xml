@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xg-ssh:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="xg-ssh.war">
+      <element id="artifact" artifact-name="xg-ssh:war exploded" />
+    </root>
+  </artifact>
+</component>
